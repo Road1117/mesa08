@@ -1,0 +1,6 @@
+    var_dump($p);
+    列出$p所有變數
+
+    foreach ($p as $key => $value){
+    echo "{$key}點出現{$value}次<br>";
+    };
